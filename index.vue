@@ -9,7 +9,7 @@
 import Navbar from "./components/Navbar";
 import Naslovnica from "./components/Naslovnica";
 export default {
-  name: "App",
+  name: "index",
   components: {
     Navbar,
     Naslovnica
